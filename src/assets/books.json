@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "bookName": "Book name 1",
+    "author": {
+      "firstName": "firstName 1",
+      "lastName": "lastName 1"
+    },
+    "lang": {
+      "ru": "Russian",
+      "en": "English"
+    },
+    "pages": 150,
+    "cover": "soft"
+  },
+  {
+    "id": 2,
+    "bookName": "Book name 2",
+    "author": {
+      "firstName": "firstName 2",
+      "lastName": "lastName 2"
+    },
+    "lang": {
+      "ru": "Russian",
+      "en": "English"
+    },
+    "pages": 390,
+    "cover": "hard"
+  },
+  {
+    "id": "3",
+    "bookName": "Book name 3",
+    "author": {
+      "firstName": "firstName 3",
+      "lastName": "lastName 3"
+    },
+    "lang": {
+      "ru": "Russian",
+      "en": "English"
+    },
+    "pages": 450,
+    "cover": "soft"
+  },
+  {
+    "id": 4,
+    "bookName": "Book name 4",
+    "author": {
+      "firstName": "firstName 4",
+      "lastName": "lastName 4"
+    },
+    "lang": {
+      "ru": "Russian",
+      "en": "English"
+    },
+    "pages": 250,
+    "cover": "soft"
+  }
+]
