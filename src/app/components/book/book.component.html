@@ -1,0 +1,17 @@
+<div class="container">
+  <mat-icon
+    class="favorite-icon"
+    [class]="{gold: bookData?.isFavorite}"
+    (click)="bookData.isFavorite = !bookData?.isFavorite"
+  >
+    {{bookData?.isFavorite ? 'star' : 'star_border'}}
+  </mat-icon>
+  <div class="poster"><img src="" alt=""></div>
+  <div class="label"></div>
+  <div class="description">{{bookData?.getBookInfo()}}</div>
+
+  <div class="btn-group">
+    <button></button>
+    <button></button>
+  </div>
+</div>
